@@ -1,0 +1,4 @@
+# About
+## This is a simple JS password generator
+## [Visit Now!](https://js-simple-password-generator.netlify.app/)
+![password](https://github.com/user-attachments/assets/3e82a911-b336-4e2f-a781-2bf4ef99d20b)
