@@ -13,6 +13,7 @@
   justify-content: center;
   height: 100vh;
   background-color: #ddd;
+  color: royalblue;
 }
 
 .wrapper {
@@ -30,6 +31,7 @@ input {
   border: none;
   outline: none;
   font-size: 18px;
+  background-color: #fff;
 }
 
 .input {
@@ -43,6 +45,7 @@ svg {
   width: 24px;
   stroke: #555;
   cursor: pointer;
+  visibility: hidden;
 }
 
 button {
@@ -53,8 +56,4 @@ button {
   font-size: 18px;
   border-radius: 6px;
   cursor: pointer;
-}
-
-h1 {
-  color: royalblue;
 }
