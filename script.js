@@ -2,7 +2,7 @@
 
 const smallInput = document.getElementById("password");
 const button = document.querySelector(".btn");
-const copyBtn = document.querySelector("svg");
+const copyBtn = document.querySelector("img");
 const length = 12;
 
 const upperCase = "ABCDEFGHIJKLMNOPQRSTWXYZ";
